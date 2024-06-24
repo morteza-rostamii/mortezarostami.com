@@ -1,0 +1,1 @@
+export {TechScroll} from './components/TechScroll'
